@@ -7,19 +7,19 @@
 <h1 align="center">Glowing Checkbox Button</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Arthur-Matias/glowing-checkbox-button?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/Arthur-Matias/glowing-ckeckbox-button?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Arthur-Matias/glowing-checkbox-button?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/Arthur-Matias/glowing-ckeckbox-button?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Arthur-Matias/glowing-checkbox-button?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Arthur-Matias/glowing-ckeckbox-button?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/Arthur-Matias/glowing-checkbox-button?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/Arthur-Matias/glowing-ckeckbox-button?color=56BEB8">
 
-  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Arthur-Matias/glowing-checkbox-button?color=56BEB8" /> -->
+  <!-- <img alt="Github issues" src="https://img.shields.io/github/issues/Arthur-Matias/glowing-ckeckbox-button?color=56BEB8" /> -->
 
-  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Arthur-Matias/glowing-checkbox-button?color=56BEB8" /> -->
+  <!-- <img alt="Github forks" src="https://img.shields.io/github/forks/Arthur-Matias/glowing-ckeckbox-button?color=56BEB8" /> -->
 
-  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Arthur-Matias/glowing-checkbox-button?color=56BEB8" /> -->
+  <!-- <img alt="Github stars" src="https://img.shields.io/github/stars/Arthur-Matias/glowing-ckeckbox-button?color=56BEB8" /> -->
 </p>
 
 <!-- Status -->
@@ -60,10 +60,10 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) in
 
 ```bash
 # Clone this project
-$ git clone https://github.com/Arthur-Matias/glowing-checkbox-button
+$ git clone https://github.com/Arthur-Matias/glowing-ckeckbox-button
 
 # Access
-$ cd glowing-checkbox-button
+$ cd glowing-ckeckbox-button
 
 # You can the just open the index.html file on your favorite web browser
 ```
